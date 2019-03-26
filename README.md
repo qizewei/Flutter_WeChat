@@ -1,4 +1,4 @@
-# flutter_wecaht
+# flutter_wechat
 
 ## 基于Flutter，高仿微信UI的APP，欢迎Star。
 
