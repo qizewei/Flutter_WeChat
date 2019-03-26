@@ -1,0 +1,4 @@
+#Tue Mar 26 14:58:26 CST 2019
+base.0=/Users/god/Downloads/FlutterSpac/Flutter_WeChat/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

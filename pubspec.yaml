@@ -1,0 +1,56 @@
+name: flutter_wecaht
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  date_format: "^1.0.4"
+  flutter_webview_plugin: "^0.2.1+2"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+  - images/code.png
+  - images/contact_list_normal.png
+  - images/contact_list_pressed.png
+  - images/find_normal.png
+  - images/find_pressed.png
+  - images/icon_addfriend.png
+  - images/icon_bottle.png
+  - images/icon_friends.png
+  - images/icon_game.png
+  - images/icon_groupchat.png
+  - images/icon_link.png
+  - images/icon_look.png
+  - images/icon_me_card.png
+  - images/icon_me_collect.png
+  - images/icon_me_money.png
+  - images/icon_me_photo.png
+  - images/icon_me_setting.png
+  - images/icon_me_smile.png
+  - images/icon_menu_addfriend.png
+  - images/icon_menu_group.png
+  - images/icon_menu_scan.png
+  - images/icon_near.png
+  - images/icon_public.png
+  - images/icon_scan.png
+  - images/icon_search.png
+  - images/icon_shake.png
+  - images/icon_shop.png
+  - images/loading.jpg
+  - images/profile_normal.png
+  - images/profile_pressed.png
+  - images/tutu.png
+  - images/weixin_normal.png
+  - images/weixin_pressed.png
+
+

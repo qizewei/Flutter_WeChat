@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml:1:1-4:12
+INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml:1:1-4:12
+	package
+		ADDED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml:2:11-47
+		INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+		ADDED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/god/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webview_plugin-0.2.1+2/android/src/main/AndroidManifest.xml
